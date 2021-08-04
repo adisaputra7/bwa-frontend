@@ -1,4 +1,5 @@
-# frontend-bwa
+# frontend-bwa 
+frontend use nuxt.js(https://nuxtjs.org/) and tailwind(https://tailwindcss.nuxtjs.org/)
 
 ## Build Setup
 
