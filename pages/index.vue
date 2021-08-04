@@ -113,7 +113,7 @@
           <div class="item">
             <figure class="item-image">
               <img
-                src="/project-thumbnail-1.jpg"
+                :src="$axios.defaults.baseURL + '/' + campaign.image_url"
                 alt=""
                 class="rounded-20 w-full"
               />
